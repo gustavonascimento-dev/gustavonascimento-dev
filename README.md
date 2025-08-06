@@ -18,9 +18,9 @@ Estou criando projetos reais enquanto estudo, e documentando tudo aqui no GitHub
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 📫 Contato
-- Email: **[em breve]**
+- Email: gustavopnjob@gmail.com
 - LinkedIn: *em construção*
-- WhatsApp: **profissional já criado**
+- WhatsApp: +55 (89) 9 9988-0012
 
 ---
 
