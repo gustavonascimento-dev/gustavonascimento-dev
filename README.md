@@ -9,7 +9,7 @@ Estou criando projetos reais enquanto estudo, e documentando tudo aqui no GitHub
 - 🔭 Atualmente estudando **Python e Lógica de Programação**
 - 📚 Explorando também o mundo do **Front-End** (HTML, CSS e JS)
 - 👨‍💻 Estudando todos os dias para me tornar um profissional completo
-- 💼 Futuro freelancer (já com conta no C6 dedicada 💳)
+- 💼 Futuro freelancer
 
 ### 🛠️ Tecnologias em Aprendizado
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
